@@ -1,5 +1,6 @@
 <h1 align="center">  Boas vindas! Sou o Carlos (Cadu, se preferir) </h1>
-<p align="center"> 🏫 Estou no 2 ano do ensino médio do colégio SATC/SC, <br> e atualmente curso informatica 2/4 🖥<br>📖 Estudando, Python, HTML, CSS, C e C++
+<h2 align="center"> Estou no 2 ano do ensino médio do colégio SATC/SC, <br> atualmente no curso de informatica 2/4</h2>
+<p align="center">📖 Estudando, Python, HTML, CSS, C e C++
 </p>
 
 <p align="center">
