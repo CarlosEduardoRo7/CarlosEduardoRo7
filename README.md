@@ -1,5 +1,5 @@
 <h1 align="center">  Boas vindas! Sou o Carlos</h1>
-<h2 align="center"> Estudo no terceiro ano do ensino médio do colégio SATC/SC, <br> atualmente no curso de informatica 3/4</h2>
+<h2 align="center"> Estudo no terceiro ano do ensino médio no colégio SATC/SC, <br> atualmente no curso de informatica 3/4</h2>
 <p align="center">📖 Estudando, Python, HTML, CSS, C e C++
 </p>
 
